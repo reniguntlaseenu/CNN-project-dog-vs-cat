@@ -34,7 +34,7 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow and
 
 ## Live Demo
 
-Paste your Streamlit link here
+https://cnn-project-dog-vs-cat-3eb8bhvqwejkffqfsnxrwv.streamlit.app/
 
 ## Project Workflow
 
@@ -47,3 +47,21 @@ Paste your Streamlit link here
 ## Author
 
 Reniguntla Seenu
+
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/screenshots/home.png)
+
+### Cat Image
+![Cat](screenshots/screenshots/cat.png)
+
+### Cat Prediction
+![Cat Prediction](screenshots/screenshots/cat_prediction.png)
+
+### Dog Image
+![Dog](screenshots/screenshots/dog.png)
+
+### Dog Prediction
+![Dog Prediction](screenshots/screenshots/dog_prediction.png)
+
